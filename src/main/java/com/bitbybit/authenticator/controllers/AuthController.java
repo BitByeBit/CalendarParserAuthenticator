@@ -1,5 +1,6 @@
-package com.bitbybit.authenticator;
+package com.bitbybit.authenticator.controllers;
 
+import com.bitbybit.authenticator.services.AuthService;
 import com.google.firebase.auth.FirebaseAuthException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

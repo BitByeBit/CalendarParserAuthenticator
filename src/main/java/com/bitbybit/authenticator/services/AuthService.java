@@ -1,4 +1,4 @@
-package com.bitbybit.authenticator;
+package com.bitbybit.authenticator.services;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
