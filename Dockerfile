@@ -1,5 +1,7 @@
 FROM eclipse-temurin:17-focal
 
+LABEL org.opencontainers.image.source=https://github.com/bitbyebit/calendarparserauthenticator
+
 ENV SPRING_PORT=9090
 
 WORKDIR /srv
